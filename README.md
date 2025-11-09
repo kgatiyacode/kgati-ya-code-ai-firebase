@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Code ya Kgati - AI Firebase Functions
+# Kgati ya Code - AI Firebase Functions
 
 AI microservice for the Code ya Kgati e-commerce platform.
 
@@ -45,6 +44,3 @@ firebase deploy --only functions
 
 - `auth.api_key` - Secret key for API authentication
 - `ai.provider.key` - OpenAI API key
-=======
-# kgati-ya-code-ai-firebase
->>>>>>> origin/development
