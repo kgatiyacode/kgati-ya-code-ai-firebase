@@ -1,11 +1,3 @@
-node_modules/
-.firebase/
-firebase-debug.log
-firestore-debug.log
-ui-debug.log
-functions/node_modules/
-.env
-.env.local
 # Firebase build and deployment files
 /firebase-debug.log
 /firebase-debug.*.log
